@@ -1,0 +1,57 @@
+{
+    "restuarants": [
+        {
+            "id": 0,
+            "restaurant": "Passage to India Indian Cuisine",
+            "web": "http://www.passagetoindianc.com/",
+            "description": "We offer food with diversity & distinctiveness",
+            "menu": [
+                "VEGETABLE SAMOSA",
+                "CHILLI PANEER",
+                "MIX VEG PAKORA",
+                "SAMOSA CHAT",
+                "VEG APPETIZER PLATTER",
+                "LAMB KEEMA SAMOSA",
+                "CHICKEN-65",
+                "CHILLI CHICKEN DRY"
+            ],
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "9510",
+                    "line1": "University City Blvd 101",
+                    "line2": "Charlotte",
+                    "postcode": "NC 28213",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "restaurant": "Curry Gate",
+            "web": "http://currygates.com/",
+            "description": "Here you can have THE TASTE OF THE SPICES",
+            "menu": [
+                "Dum Biryani",
+                "CG Special Biryani",
+                "Chilli",
+                "Shangai Fried Rice",
+                "Thukpa",
+                "Fried Rice",
+                "Manchurian",
+                "Tikka Masala",
+                "Makhani"
+            ],
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "640",
+                    "line1": " W 24th street",
+                    "line2": "Charlotte",
+                    "postcode": "NC 28206",
+                    "country": "USA"
+                }
+            ]
+        }
+    ]
+}
